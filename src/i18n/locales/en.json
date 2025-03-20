@@ -1,0 +1,60 @@
+{
+  "hero": {
+    "title": "Join Us as a",
+    "subtitle": "Market Research Specialist",
+    "description": "Start your career in financial market research with",
+    "salary": "$450/month salary",
+    "details": "Purchase our comprehensive eBook, pass our exam, and join our expert team.",
+    "enrollButton": "Enroll Now"
+  },
+  "features": {
+    "title": "Why Join Us?",
+    "subtitle": "Financial markets are always evolving! 📈",
+    "description": "We need sharp-minded analysts who can help us stay ahead of market trends.",
+    "research": {
+      "title": "Research & Track Market Trends",
+      "description": "Analyze market movements and identify emerging patterns. Get paid $450/month as a Market Research Specialist."
+    },
+    "training": {
+      "title": "Comprehensive Training",
+      "description": "Get access to our detailed eBook ($15) packed with market analysis strategies and trading insights."
+    },
+    "expertise": {
+      "title": "Prove Your Expertise",
+      "description": "Pass our 100-question MCQ exam to join our team of market research specialists."
+    },
+    "referrals": {
+      "title": "Earn Through Referrals",
+      "description": "Earn $7 for each successful referral who joins our program. Build your network while earning extra income."
+    }
+  },
+  "enrollment": {
+    "title": "Enroll as a Market Research Specialist",
+    "instructions": {
+      "title": "Payment Instructions",
+      "description": "Please send $15 to our Binance account to receive the eBook and join our program.",
+      "binanceId": "Binance ID:",
+      "copy": "Copy Binance ID"
+    },
+    "form": {
+      "fullName": "Full Name",
+      "email": "Gmail Address",
+      "transactionId": {
+        "label": "Transaction ID",
+        "placeholder": "Enter Binance transaction ID",
+        "help": "Enter the transaction ID from your payment"
+      },
+      "binanceId": {
+        "label": "Your Binance ID",
+        "placeholder": "Enter your Binance ID",
+        "help": "Enter your personal Binance ID"
+      },
+      "referral": {
+        "label": "Referral Email Address (Optional)",
+        "placeholder": "Enter the email of who referred you",
+        "help": "Referrers earn $7 for each successful enrollment"
+      },
+      "submit": "Submit Enrollment"
+    }
+  }
+}

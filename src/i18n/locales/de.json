@@ -1,0 +1,60 @@
+{
+  "hero": {
+    "title": "Werden Sie Teil unseres Teams als",
+    "subtitle": "Marktforschungsspezialist",
+    "description": "Starten Sie Ihre Karriere in der Finanzmarktforschung mit einem",
+    "salary": "Gehalt von $450/Monat",
+    "details": "Kaufen Sie unser umfassendes eBook, bestehen Sie unsere Prüfung und werden Sie Teil unseres Expertenteams.",
+    "enrollButton": "Jetzt Anmelden"
+  },
+  "features": {
+    "title": "Warum zu uns?",
+    "subtitle": "Finanzmärkte entwickeln sich ständig weiter! 📈",
+    "description": "Wir brauchen scharfsinnige Analysten, die uns helfen, Markttrends vorauszusehen.",
+    "research": {
+      "title": "Markttrends Erforschen & Verfolgen",
+      "description": "Analysieren Sie Marktbewegungen und identifizieren Sie neue Muster. Verdienen Sie $450/Monat als Marktforschungsspezialist."
+    },
+    "training": {
+      "title": "Umfassende Ausbildung",
+      "description": "Erhalten Sie Zugang zu unserem detaillierten eBook ($15) mit Marktanalysestrategien und Trading-Einblicken."
+    },
+    "expertise": {
+      "title": "Beweisen Sie Ihr Fachwissen",
+      "description": "Bestehen Sie unsere 100-Fragen-MCQ-Prüfung, um Teil unseres Teams von Marktforschungsspezialisten zu werden."
+    },
+    "referrals": {
+      "title": "Verdienen Sie durch Empfehlungen",
+      "description": "Verdienen Sie $7 für jede erfolgreiche Empfehlung, die unserem Programm beitritt. Bauen Sie Ihr Netzwerk auf und verdienen Sie zusätzliches Einkommen."
+    }
+  },
+  "enrollment": {
+    "title": "Anmeldung als Marktforschungsspezialist",
+    "instructions": {
+      "title": "Zahlungsanweisungen",
+      "description": "Bitte senden Sie $15 an unser Binance-Konto, um das eBook zu erhalten und unserem Programm beizutreten.",
+      "binanceId": "Binance ID:",
+      "copy": "Binance ID kopieren"
+    },
+    "form": {
+      "fullName": "Vollständiger Name",
+      "email": "Gmail-Adresse",
+      "transactionId": {
+        "label": "Transaktions-ID",
+        "placeholder": "Binance Transaktions-ID eingeben",
+        "help": "Geben Sie die Transaktions-ID Ihrer Zahlung ein"
+      },
+      "binanceId": {
+        "label": "Ihre Binance ID",
+        "placeholder": "Ihre Binance ID eingeben",
+        "help": "Geben Sie Ihre persönliche Binance ID ein"
+      },
+      "referral": {
+        "label": "Empfehlungs-E-Mail-Adresse (Optional)",
+        "placeholder": "E-Mail-Adresse des Empfehlenden eingeben",
+        "help": "Empfehlende erhalten $7 für jede erfolgreiche Anmeldung"
+      },
+      "submit": "Anmeldung Absenden"
+    }
+  }
+}
